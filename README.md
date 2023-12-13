@@ -14,6 +14,13 @@
 <b>Python</b>
   - pending
 
+<h2>📺 Certifications</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/6bf667c1-ccff-4eaa-827b-81056b0b2ca0)
+- [CompTIA Cyber Security Analyst (CySA+)](https://www.credly.com/badges/ca2e8274-d744-4c02-b117-b430785bd432)
+- [CompTIA Security Analytics Professional (CSAP))](https://www.credly.com/badges/cce5407b-9d4a-4fa3-9ccd-e4144f179c2d)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/0fceff23-0735-409f-826f-391e64abcdf8)
+
 
 
 
