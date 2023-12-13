@@ -1,6 +1,6 @@
-<h1>Hi, I'm Dom!  <br/><a href="https://github.com/hy3nad1v">Programmer</a>, <a href="https://www.linkedin.com/in/dominique-hendricks216/">Cybersecurity Professional</a>
+<h1>Greetings, I'm Dominique!<br/><a href="https://github.com/hy3nad1v">Programmer</a>, <a href="https://www.linkedin.com/in/dominique-hendricks216/">Cybersecurity Professional</a>
   
-<h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
+<h2>👨🏽‍💻 Cybersecurity & Software Development Projects:</h2>
 <b>🔐 Cybersecurity</b>
 
   - [Active Directory Home Lab](https://github.com/hy3nad1v/ActiveDirectoryLab)
