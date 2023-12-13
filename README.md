@@ -5,7 +5,7 @@
 
   - [Active Directory Home Lab](https://github.com/hy3nad1v/LABURL)
   - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/LABURL)
-  - [Penetration Testing Playbook](https://github.com/hy3nad1v/LABURL)
+  - [Penetration Testing Playbook](https://github.com/hy3nad1v/Penetration-Test-Playbook)
 
 <b>PowerShell</b>
 
