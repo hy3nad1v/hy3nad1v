@@ -1,21 +1,21 @@
 <h1>Hi, I'm Dom!  <br/><a href="https://github.com/hy3nad1v">Programmer</a>, <a href="https://www.linkedin.com/in/dominique-hendricks216/">Cybersecurity Professional</a>
   
 <h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
-<b>Cybersecurity</b>
+<b>🔐 Cybersecurity</b>
 
   - [Active Directory Home Lab](https://github.com/hy3nad1v/ActiveDirectoryLab)
   - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/NessusVulnerabilityManagement)
   - [Penetration Testing Playbook](https://github.com/hy3nad1v/Penetration-Test-Playbook)
 
-<b>PowerShell</b>
+<b>🔋🐚 PowerShell</b>
 
   - [Active Directory Bulk User Creation](https://github.com/hy3nad1v/ActiveDirectoryBulkUserCreation)
   
-<b>Python</b>
+<b>🐍 Python</b>
   - pending
 
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/6bf667c1-ccff-4eaa-827b-81056b0b2ca0)
 - [CompTIA Cyber Security Analyst (CySA+)](https://www.credly.com/badges/ca2e8274-d744-4c02-b117-b430785bd432)
