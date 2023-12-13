@@ -1,8 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Dom!  <br/><a href="https://github.com/hy3nad1v">Programmer</a>, <a href="https://www.linkedin.com/in/dominique-hendricks216/">Cybersecurity Professional</a>
+  
+<h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
+<b>Cybersecurity</b>
+
+  - [Active Directory Home Lab](https://github.com/hy3nad1v/LABURL)
+  - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/LABURL)
+  - [Penetration Testing Playbook](https://github.com/hy3nad1v/LABURL)
+
+<b>PowerShell</b>
+
+  - [Active Directory Bulk User Creation](https://github.com/hy3nad1v/LABURL)
+  
+<b>Python</b>
+  - pending
+
+
+
 
 <!--
-**hy3nad1v/hy3nad1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
