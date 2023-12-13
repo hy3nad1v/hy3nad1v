@@ -14,6 +14,7 @@
 <b>Python</b>
   - pending
 
+
 <h2>📺 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/6bf667c1-ccff-4eaa-827b-81056b0b2ca0)
