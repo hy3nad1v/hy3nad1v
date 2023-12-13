@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity & Software Development Projects:</h2>
 <b>Cybersecurity</b>
 
-  - [Active Directory Home Lab](https://github.com/hy3nad1v/LABURL)
+  - [Active Directory Home Lab](https://github.com/hy3nad1v/ActiveDirectoryLab)
   - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/LABURL)
   - [Penetration Testing Playbook](https://github.com/hy3nad1v/Penetration-Test-Playbook)
 
