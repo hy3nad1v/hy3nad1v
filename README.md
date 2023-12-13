@@ -4,12 +4,12 @@
 <b>Cybersecurity</b>
 
   - [Active Directory Home Lab](https://github.com/hy3nad1v/ActiveDirectoryLab)
-  - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/LABURL)
+  - [Nessus Vulnerabliity Management](https://github.com/hy3nad1v/NessusVulnerabilityManagement)
   - [Penetration Testing Playbook](https://github.com/hy3nad1v/Penetration-Test-Playbook)
 
 <b>PowerShell</b>
 
-  - [Active Directory Bulk User Creation](https://github.com/hy3nad1v/LABURL)
+  - [Active Directory Bulk User Creation](https://github.com/hy3nad1v/ActiveDirectoryBulkUserCreation)
   
 <b>Python</b>
   - pending
