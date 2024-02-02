@@ -10,6 +10,7 @@
 <b>🔋🐚 PowerShell</b>
 
   - [Active Directory Bulk User Creation](https://github.com/hy3nad1v/ActiveDirectoryBulkUserCreation)
+  - [Domain PC Restart Email Utility](https://github.com/hy3nad1v/DomainPC-Restart-Email-Utility)
   
 <b>🐍 Python</b>
   - pending
